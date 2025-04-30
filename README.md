@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Gabriel Oazem!</h1>
+<h1 align="center">👋 Oi, eu sou o Gabriel Oazem!</h1>
 
 <p align="center">
   🛠️ Experiência com BMC Remedy (Helix ITSM) e automação de processos ITSM. <br>
